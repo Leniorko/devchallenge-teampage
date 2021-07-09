@@ -148,6 +148,7 @@ body {
 @media screen and (max-width: 500px) {
   .header {
     flex-direction: column;
+    gap: 16px;
   }
   .team-member__team-position {
     font-size: 10px;
